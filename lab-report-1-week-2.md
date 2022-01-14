@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Lab Report 1 Week 2
 
 ## VS Code Installation
