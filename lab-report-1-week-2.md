@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lab Report 1 Week 2
 
 ## VS Code Installation
@@ -49,3 +50,6 @@
 * After typing the command to ssh into my ieng6 account, I added "javac WhereAmI.java; java WhereAmI" before hitting enter.
 * This utilized 2 methods of optimizing remote running, since placing a command in quotes after the ssh command immediately runs that command and exits the remote connection and using semicolons between multiple commands allows multiple commands to be run on the same line.
 * As seen in the picture, this allowed me to remotely connect to my ieng6 account, compile WhereAmI.java (which was already moved to the ieng6 account with scp earlier), run WhereAmI.java, and exit the remote connection all in one line.
+=======
+![VS Code](image1.png)
+>>>>>>> f43d8816f143a9f1af2bf0586c4622209363ce09
