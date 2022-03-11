@@ -2,11 +2,11 @@
 
 This lab report contains the differences between my own markdown parse code and the given markdown parse code. I used the `diff` command to identify the differences. 
 
-![diff command](week10-img2.png)
+![diff command](week10-img2.PNG)
 
 After seeing the initial results, I was a little confused about which result corresponded to which text, so I edited the `script.sh` file and added the line `echo "$file"`in the for loop to print out which test file each result corresponded to. 
 
-![Changes to `script.sh`](week10-img1.png)
+![Changes to `script.sh`](week10-img1.PNG)
 
 ## Test File 22
 
