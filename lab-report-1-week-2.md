@@ -8,7 +8,7 @@
 * After it downloads onto your computer, I followed the prompts to setup VS Code.
 * Finally, it should look like the image above
 
-## Remotely Connecting
+## Remotely Connecting to OpenSSH
 
 ![SSH result](image5.png)
 
